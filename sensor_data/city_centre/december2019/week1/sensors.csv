@@ -1,0 +1,2 @@
+Sensor Name,Location (WKT),Ground Height Above Sea Level,Sensor Height Above Ground,Broker Name,Third Party,Sensor Centroid Longitude,Sensor Centroid Latitude,Raw ID
+PER_AIRMON_MESH1764150,POINT (-1.6135 54.97768),47.59999847,2,aq_mesh_api,FALSE,-1.6135,54.97768,73093

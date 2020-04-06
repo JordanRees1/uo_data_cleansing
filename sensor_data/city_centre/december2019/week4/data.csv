@@ -1,0 +1,2 @@
+Sensor Name,Timestamp,Week,Week Day,Date,Unix,Slice,Relative Time,Longitude,Latitude,mean_PM10,mean_PM1,mean_CO,mean_NO2
+PER_AIRMON_MESH1764150,01/12/2019 00:00,1,Sunday,1,1575158460,1750176,60,-1.6135,54.97768,9.59,2.37,242.9460182,13.19088571
